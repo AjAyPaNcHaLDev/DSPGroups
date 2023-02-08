@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DSP Groups</string>
+    <string name="cancel">Cancel</string>
+    <string name="exit">Exit</string>
+    <string name="alert_msg_for_exiting">Are you sure you want to exit this App?</string>
+    <string name="refresh"><u>Refresh now</u></string>
+</resources>
